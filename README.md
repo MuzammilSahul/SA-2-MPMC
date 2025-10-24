@@ -67,7 +67,7 @@ END
 
 <img width="830" height="797" alt="Screenshot 2025-10-24 221522" src="https://github.com/user-attachments/assets/5c8fa3b0-39dd-4d04-92fd-1a2ea7f65771" />
 
-#OFF
+# OFF
 <img width="1140" height="800" alt="Screenshot 2025-10-24 221649" src="https://github.com/user-attachments/assets/275d65ff-bcb8-47b5-97db-316186ce4c29" />
 
 ### YOU CAN SEE THE LED IS TOGGLING AT 250MS
