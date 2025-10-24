@@ -78,4 +78,4 @@ END
 Thus The Program to generate a 250ms delay using Timer 1 in Mode 1 and blink an LED connected to Port 0.5 continuously is done and output is shown
 
 
-Would you like me to make this into a short flowchart (easy for lab record)?
+
